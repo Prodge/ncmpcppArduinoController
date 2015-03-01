@@ -26,4 +26,4 @@ My notes on getting things running:
 Some Helpfull Links:
 - Flashing the firmware: http://arduino.cc/en/Hacking/DFUProgramming8U2
 - Simmilar instructions for the atmega16u2: http://cjdavies.org/?tag=dfu-programmer
-
+- Keyboard key codes: www.usb.org/developers/hidpage/Hut1_12v2.pdf (page 53)
