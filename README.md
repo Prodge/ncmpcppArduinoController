@@ -1,8 +1,11 @@
 ###ncmpcpp Arduino Controller
-Controll the most common functions of ncmpcpp with an Arduino 
+Control the most common functions of ncmpcpp with an Arduino 
 
 ####Instructions
-This works  by flashing a keyboard firmware to an arduino and passing inputs to the arduino (via a push button) to the computer via usb as a keyboard input.
+This works by flashing a keyboard firmware to an arduino and passing inputs to the arduino (via a button) to the computer via usb as a keyboard input.
+
+Button -> Arduino -> Keyboard Firmware -> USB -> Keyboard Driver -> ncmpcpp
+
 
 This will only work with certain arduino's.
 
